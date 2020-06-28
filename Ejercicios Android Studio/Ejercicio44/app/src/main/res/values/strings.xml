@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Este Mundo</string>
+    <string name="opcion_menu1">Opción 1</string>
+    <string name="opcion_menu2">Opción 2</string>
+    <string name="opcion_menu3">Opción 3</string>
+    <string name="mensaje1">Se selccionó la primera opción</string>
+    <string name="mensaje2">Se selccionó la segunda opción</string>
+    <string name="mensaje3">Se selccionó la tercera opción</string>
+</resources>
